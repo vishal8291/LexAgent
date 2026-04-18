@@ -8,7 +8,7 @@ services:
       - key: OPENAI_API_KEY
         sync: false
       - key: MONGODB_URL
-        value: mongodb+srv://vishaltiwari101999_db_user:vish2323@cluster0.bsi7jvp.mongodb.net/lexagent?retryWrites=true&w=majority
+        value: mongodb+srv://vishaltiwari101999_db_user:vishal2323@cluster0.bsi7jvp.mongodb.net/lexagent?retryWrites=true&w=majority
       - key: DATABASE_NAME
         value: lexagent
       - key: SECRET_KEY
